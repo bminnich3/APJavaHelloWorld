@@ -1,2 +1,2 @@
 # APJavaHelloWorld
-Hello World assignment for AP Java at Wyomissing Area HS
+hello world demo program used at the Wyomissing Area High School
